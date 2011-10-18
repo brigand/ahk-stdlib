@@ -13,6 +13,7 @@ Code Style Guidelines
 ---------------------
 
 - Clean, well structured code.
+- Limit 80 characters per line
 - Code must be wrapped in functions/classes with clear, non-conflicting namespaces.
 - Code must not depend on positioning of #include.
 - Prefer code without side effects. (e.g. unnecessarily and unexpectedly polluting or relying on the global namespace.)
