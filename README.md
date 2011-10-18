@@ -1,4 +1,4 @@
-AHK Lib v2
+AutoHotkey Standard Library
 ==========
 
 Outline
